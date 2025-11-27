@@ -1,0 +1,4 @@
+package com.sunlifeph.sunlife;
+
+global java.lang.String token;
+global java.lang.String expiry_date;
